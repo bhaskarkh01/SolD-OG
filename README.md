@@ -1,4 +1,4 @@
-# solana_D-OG
+# SolD-OG
 
 Mint some cool D-OGs. Deployed on devnet.
 
